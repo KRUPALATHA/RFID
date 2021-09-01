@@ -50,9 +50,6 @@ void setup()
 }
 void loop()
 {
-
-
-
   byte block = 0;
   byte len = 0;
 
